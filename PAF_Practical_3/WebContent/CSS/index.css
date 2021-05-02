@@ -1,0 +1,20 @@
+* {
+	margin:0
+}
+
+.inputForm {
+	max-width:350px;
+	margin:20px
+}
+
+h1 {
+	margin:20px
+}
+
+.trow {
+	height:40px !important;
+}
+
+table {
+	margin:20px;
+}
